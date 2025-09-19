@@ -86,7 +86,7 @@
   "of {{count}} file(s) -——loaded——other": "de {{count}} archivos -",
   "of {{count}} file(s) -——loading——one": "de ... archivo(s) -",
   "of {{count}} file(s) -——loading——other": "de ... archivo(s) -",
-  "Oops, that's a <1>four-oh-four</1>.": "Vaya, es un <1>cuatro-cero-cuatro</1>.",
+  "Oops, that's a <1>four-oh-four</1>.": "Vaya, es un <1>cuatro-ceroo-cuatro</1>.",
   "Open URL": "Abrir URL",
   "Open URL{{url}}": "Abrir URL{{url}}",
   "Press <2>F12</2> and open devtools for more details, or seek help at <6>onedrive-vercel-index discussions</6>.": "Contáctanos por Facebook o Discord y avísanos de este error.",
